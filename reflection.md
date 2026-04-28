@@ -8,6 +8,7 @@ The system generates:
 - job analysis
 - skill-gap report
 - tailored resume suggestions
+- cover letter draft
 - interview question bank
 - preparation plan
 - reminder text
@@ -32,6 +33,7 @@ It also creates/maintains a tracker file (`tracker/applications.csv`) for applic
 - Added top-term extraction for better job analysis context.
 - Added urgency labels (`today`, `tomorrow`, `this week`, `overdue`) for follow-up reminders.
 - Added a preparation plan output for interview readiness.
+- Added a cover letter draft to support job applications beyond resume tailoring.
 
 ## Future Improvements
 

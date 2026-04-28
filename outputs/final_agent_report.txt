@@ -1,6 +1,6 @@
 CareerPrep Job-Hunting Agent Report
 ===================================
-Generated on: 2026-04-28T13:30:27
+Generated on: 2026-04-28T14:00:48
 
 Job files read: 2
 Resume files read: 1
@@ -98,6 +98,30 @@ Skills to improve before applying/interview:
 - machine learning
 - prompt engineering
 - sql
+
+Cover Letter Draft
+==================
+
+Dear Hiring Manager,
+
+I am writing to express my interest in this opportunity. My academic work and hands-on projects have helped me build practical foundations that align with the role requirements.
+
+Key strengths I can bring to the role include:
+- Experience or supporting evidence related to api.
+- Experience or supporting evidence related to communication.
+- Experience or supporting evidence related to git.
+- Experience or supporting evidence related to github.
+- Experience or supporting evidence related to jupyter.
+
+I am also actively improving skills that can make me even more effective in this position:
+- Currently strengthening data preprocessing through focused practice and project work.
+- Currently strengthening machine learning through focused practice and project work.
+- Currently strengthening prompt engineering through focused practice and project work.
+
+I would welcome the opportunity to contribute, learn from your team, and continue growing through practical problem-solving and project delivery.
+
+Sincerely,
+Your Name
 
 Interview Questions
 ===================
