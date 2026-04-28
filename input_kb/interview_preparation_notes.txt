@@ -1,0 +1,5 @@
+- Use STAR method for behavioral answers.
+- Explain project context, your contribution, and measurable impact.
+- Be ready to justify model choice and data preprocessing steps.
+- Practice clear communication and concise technical explanation.
+- Ask role-specific and growth-oriented questions at the end.

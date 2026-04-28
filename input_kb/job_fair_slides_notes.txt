@@ -1,0 +1,4 @@
+- Tailor resume per role instead of using one generic resume.
+- Track every application with date and next action.
+- Follow up professionally if no response in 5 to 7 days.
+- Prepare one strong project story aligned to job requirements.

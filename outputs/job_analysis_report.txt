@@ -1,0 +1,35 @@
+Job Analysis Report
+===================
+
+Job files analyzed: 2
+- job_poster_01.txt
+- job_poster_02.txt
+
+Skills/keywords found in job posters:
+- api
+- communication
+- data preprocessing
+- git
+- github
+- jupyter
+- machine learning
+- numpy
+- pandas
+- problem solving
+- prompt engineering
+- python
+- sql
+
+Frequently appearing terms from posters:
+- intern: 3
+- file: 2
+- data: 2
+- job_poster_01: 1
+- junior: 1
+- engineer: 1
+- looking: 1
+- motivated: 1
+- skills: 1
+- python: 1
+- machine: 1
+- learning: 1

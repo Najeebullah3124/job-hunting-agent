@@ -1,0 +1,49 @@
+Interview Questions
+===================
+
+Technical questions based on job posters:
+- Explain your understanding of api.
+- Share one project example where you used api.
+- Explain your understanding of communication.
+- Share one project example where you used communication.
+- Explain your understanding of data preprocessing.
+- Share one project example where you used data preprocessing.
+- Explain your understanding of git.
+- Share one project example where you used git.
+- Explain your understanding of github.
+- Share one project example where you used github.
+- Explain your understanding of jupyter.
+- Share one project example where you used jupyter.
+- Explain your understanding of machine learning.
+- Share one project example where you used machine learning.
+- Explain your understanding of numpy.
+- Share one project example where you used numpy.
+- Explain your understanding of pandas.
+- Share one project example where you used pandas.
+- Explain your understanding of problem solving.
+- Share one project example where you used problem solving.
+- Explain your understanding of prompt engineering.
+- Share one project example where you used prompt engineering.
+- Explain your understanding of python.
+- Share one project example where you used python.
+- Explain your understanding of sql.
+- Share one project example where you used sql.
+
+HR and behavioral questions:
+- Tell me about yourself in 90 seconds.
+- Why are you interested in this role and company?
+- Describe a challenge and how you solved it.
+- What are your strengths and current improvement areas?
+- Why should we select you for this position?
+
+Questions inspired by KB/slides:
+- How would you explain this point in an interview: FILE: interview_preparation_notes.txt?
+- How would you explain this point in an interview: Use STAR method for behavioral answers.?
+- How would you explain this point in an interview: Explain project context, your contribution, and measurable impact.?
+- How would you explain this point in an interview: Be ready to justify model choice and data preprocessing steps.?
+- How would you explain this point in an interview: Practice clear communication and concise technical explanation.?
+- How would you explain this point in an interview: Ask role-specific and growth-oriented questions at the end.?
+- How would you explain this point in an interview: FILE: job_fair_slides_notes.txt?
+- How would you explain this point in an interview: Tailor resume per role instead of using one generic resume.?
+- How would you explain this point in an interview: Track every application with date and next action.?
+- How would you explain this point in an interview: Follow up professionally if no response in 5 to 7 days.?

@@ -1,0 +1,23 @@
+Skill Gap Report
+================
+
+Job skills found: 13
+Resume skills found: 11
+Match Score: 69.23%
+
+Matched Skills:
+- api
+- communication
+- git
+- github
+- jupyter
+- numpy
+- pandas
+- problem solving
+- python
+
+Missing Skills:
+- data preprocessing
+- machine learning
+- prompt engineering
+- sql

@@ -1,0 +1,3 @@
+Data and Automation Intern
+
+Requirements include SQL, problem solving, prompt engineering, Jupyter usage, and team collaboration. Experience with Git and building small ML workflows is a plus.

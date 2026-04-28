@@ -1,0 +1,6 @@
+Application Reminders
+=====================
+
+- APP-001: Interview scheduled for Junior AI Engineer Intern at ABC Tech on 2026-05-03 (this week). Next action: Revise Python and ML basics
+- APP-002: Application submitted to DataFlow Labs. Follow up on 2026-04-30 (this week) if no response is received.
+- APP-003: Not applied yet for ML Intern at VisionWare. Tailor resume, submit application, then update tracker.

@@ -1,0 +1,8 @@
+Preparation Plan
+================
+
+1) Review missing skills and select one mini-project per missing area.
+2) Practice STAR format answers for at least 3 project stories.
+3) Rehearse 10 technical + 5 HR questions from interview_questions.txt.
+4) Update tracker status after each application/interview event.
+5) Do a follow-up check every 3-5 days for active applications.

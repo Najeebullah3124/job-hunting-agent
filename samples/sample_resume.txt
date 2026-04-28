@@ -1,0 +1,4 @@
+Sample Resume
+
+Projects: Python automation, pandas analysis, GitHub collaboration.
+Skills: communication, problem solving.

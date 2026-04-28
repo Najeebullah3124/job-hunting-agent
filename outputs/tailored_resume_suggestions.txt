@@ -1,0 +1,31 @@
+Tailored Resume Suggestions
+===========================
+
+Suggested improvements according to selected job needs:
+- Add a measurable bullet proving your work in api.
+- Add a measurable bullet proving your work in communication.
+- Add a measurable bullet proving your work in data preprocessing.
+- Add a measurable bullet proving your work in git.
+- Add a measurable bullet proving your work in github.
+- Add a measurable bullet proving your work in jupyter.
+- Add a measurable bullet proving your work in machine learning.
+- Add a measurable bullet proving your work in numpy.
+- Add a measurable bullet proving your work in pandas.
+- Add a measurable bullet proving your work in problem solving.
+- Add a measurable bullet proving your work in prompt engineering.
+- Add a measurable bullet proving your work in python.
+- Add a measurable bullet proving your work in sql.
+
+Suggested resume bullets:
+- Built Python-based projects and documented implementation decisions clearly.
+- Used Git and GitHub to manage versions, pull requests, and issue tracking.
+- Converted class assignments into practical problem-solving deliverables.
+
+Project-to-JD mapping idea:
+- For each required skill, map one project, one tool used, and one quantifiable result.
+
+Skills to improve before applying/interview:
+- data preprocessing
+- machine learning
+- prompt engineering
+- sql
