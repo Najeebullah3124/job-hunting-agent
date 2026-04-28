@@ -190,6 +190,35 @@ def generate_resume_suggestions(job_skills, missing):
     return "\n".join(output)
 
 
+def generate_cover_letter(job_skills, matched, missing):
+    lines = ["Cover Letter Draft", "==================", ""]
+    lines.append("Dear Hiring Manager,")
+    lines.append("")
+    lines.append(
+        "I am writing to express my interest in this opportunity. My academic work and hands-on projects have helped me build practical foundations that align with the role requirements."
+    )
+    lines.append("")
+    if matched:
+        lines.append("Key strengths I can bring to the role include:")
+        for skill in matched[:5]:
+            lines.append(f"- Experience or supporting evidence related to {skill}.")
+        lines.append("")
+    if missing:
+        lines.append(
+            "I am also actively improving skills that can make me even more effective in this position:"
+        )
+        for skill in missing[:3]:
+            lines.append(f"- Currently strengthening {skill} through focused practice and project work.")
+        lines.append("")
+    lines.append(
+        "I would welcome the opportunity to contribute, learn from your team, and continue growing through practical problem-solving and project delivery."
+    )
+    lines.append("")
+    lines.append("Sincerely,")
+    lines.append("Your Name")
+    return "\n".join(lines)
+
+
 def generate_interview_questions(job_skills, kb_text):
     questions = ["Interview Questions", "===================", ""]
     questions.append("Technical questions based on job posters:")
@@ -325,6 +354,7 @@ def run_agent():
     job_report = generate_job_analysis(job_files, job_skills, extract_top_terms(job_text))
     gap_report = generate_skill_gap_report(job_skills, resume_skills, matched, missing, score)
     resume_suggestions = generate_resume_suggestions(job_skills, missing)
+    cover_letter = generate_cover_letter(job_skills, matched, missing)
     interview_questions = generate_interview_questions(job_skills, kb_text)
 
     tracker_rows = load_or_create_tracker()
@@ -360,6 +390,8 @@ def run_agent():
             "",
             resume_suggestions,
             "",
+            cover_letter,
+            "",
             interview_questions,
             "",
             reminders,
@@ -371,6 +403,7 @@ def run_agent():
     save_text(os.path.join(OUTPUT_DIR, "job_analysis_report.txt"), job_report)
     save_text(os.path.join(OUTPUT_DIR, "skill_gap_report.txt"), gap_report)
     save_text(os.path.join(OUTPUT_DIR, "tailored_resume_suggestions.txt"), resume_suggestions)
+    save_text(os.path.join(OUTPUT_DIR, "cover_letter_draft.txt"), cover_letter)
     save_text(os.path.join(OUTPUT_DIR, "interview_questions.txt"), interview_questions)
     save_text(os.path.join(OUTPUT_DIR, "preparation_plan.txt"), preparation_plan)
     save_text(os.path.join(OUTPUT_DIR, "final_agent_report.txt"), final_report)

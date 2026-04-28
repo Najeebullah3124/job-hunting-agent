@@ -11,6 +11,7 @@ Then it generates:
 - job analysis
 - skill-gap report
 - tailored resume suggestions
+- cover letter draft
 - interview questions
 - preparation plan
 - application reminders
@@ -60,6 +61,7 @@ After running, the agent creates:
 - `outputs/job_analysis_report.txt`
 - `outputs/skill_gap_report.txt`
 - `outputs/tailored_resume_suggestions.txt`
+- `outputs/cover_letter_draft.txt`
 - `outputs/interview_questions.txt`
 - `outputs/preparation_plan.txt`
 - `outputs/final_agent_report.txt`
@@ -80,6 +82,7 @@ After running, the agent creates:
 - Resume keyword extraction
 - Skill-gap analysis and match score
 - Tailored resume suggestions
+- Cover letter draft generation
 - Interview questions from job + KB content
 - Application tracker CSV creation/update
 - Reminder generation based on status/date
